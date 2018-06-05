@@ -1,0 +1,494 @@
+[
+  {
+    "ts": "00:00:01.12",
+    "punch_type_id": 0,
+    "speed_mph": 6.4,
+    "power_g": 4.5
+  },
+  {
+    "ts": "00:00:01.28",
+    "punch_type_id": 3,
+    "speed_mph": 7.3,
+    "power_g": 5.4
+  },
+  {
+    "ts": "00:00:02.629",
+    "punch_type_id": 0,
+    "speed_mph": 7.1,
+    "power_g": 5.1
+  },
+  {
+    "ts": "00:00:03.1",
+    "punch_type_id": 3,
+    "speed_mph": 10.2,
+    "power_g": 6.4
+  },
+  {
+    "ts": "00:00:04.349",
+    "punch_type_id": 0,
+    "speed_mph": 6.6,
+    "power_g": 4.7
+  },
+  {
+    "ts": "00:00:06.099",
+    "punch_type_id": 0,
+    "speed_mph": 6.5,
+    "power_g": 4.3
+  },
+  {
+    "ts": "00:00:07.28",
+    "punch_type_id": 0,
+    "speed_mph": 6.4,
+    "power_g": 5
+  },
+  {
+    "ts": "00:00:07.799",
+    "punch_type_id": 0,
+    "speed_mph": 6.6,
+    "power_g": 4.8
+  },
+  {
+    "ts": "00:00:08.24",
+    "punch_type_id": 0,
+    "speed_mph": 4.5,
+    "power_g": 4.1
+  },
+  {
+    "ts": "00:00:08.919",
+    "punch_type_id": 0,
+    "speed_mph": 6.1,
+    "power_g": 4.7
+  },
+  {
+    "ts": "00:00:09.269",
+    "punch_type_id": 3,
+    "speed_mph": 6.9,
+    "power_g": 5.4
+  },
+  {
+    "ts": "00:00:18.859",
+    "punch_type_id": 3,
+    "speed_mph": 8.1,
+    "power_g": 6.1
+  },
+  {
+    "ts": "00:00:19.059",
+    "punch_type_id": 1,
+    "speed_mph": 15.6,
+    "power_g": 9.3
+  },
+  {
+    "ts": "00:00:20.44",
+    "punch_type_id": 0,
+    "speed_mph": 8.6,
+    "power_g": 6.4
+  },
+  {
+    "ts": "00:00:21.94",
+    "punch_type_id": 0,
+    "speed_mph": 7.4,
+    "power_g": 6.3
+  },
+  {
+    "ts": "00:00:22.359",
+    "punch_type_id": 0,
+    "speed_mph": 7.7,
+    "power_g": 6.1
+  },
+  {
+    "ts": "00:00:23.46",
+    "punch_type_id": 5,
+    "speed_mph": 18.5,
+    "power_g": 12.6
+  },
+  {
+    "ts": "00:00:23.57",
+    "punch_type_id": 0,
+    "speed_mph": 6.5,
+    "power_g": 4.8
+  },
+  {
+    "ts": "00:00:24.39",
+    "punch_type_id": 4,
+    "speed_mph": 21.5,
+    "power_g": 10.4
+  },
+  {
+    "ts": "00:00:26.129",
+    "punch_type_id": 0,
+    "speed_mph": 8.7,
+    "power_g": 6.5
+  },
+  {
+    "ts": "00:00:26.399",
+    "punch_type_id": 3,
+    "speed_mph": 9.8,
+    "power_g": 7.2
+  },
+  {
+    "ts": "00:00:26.989",
+    "punch_type_id": 1,
+    "speed_mph": 23.1,
+    "power_g": 12.3
+  },
+  {
+    "ts": "00:00:29.03",
+    "punch_type_id": 0,
+    "speed_mph": 5.8,
+    "power_g": 4.8
+  },
+  {
+    "ts": "00:00:38.02",
+    "punch_type_id": 3,
+    "speed_mph": 6.2,
+    "power_g": 5.6
+  },
+  {
+    "ts": "00:00:38.1",
+    "punch_type_id": 1,
+    "speed_mph": 24.4,
+    "power_g": 13.2
+  },
+  {
+    "ts": "00:00:41.109",
+    "punch_type_id": 0,
+    "speed_mph": 8.1,
+    "power_g": 6.2
+  },
+  {
+    "ts": "00:00:41.969",
+    "punch_type_id": 0,
+    "speed_mph": 4.3,
+    "power_g": 5.1
+  },
+  {
+    "ts": "00:00:42.409",
+    "punch_type_id": 0,
+    "speed_mph": 4.4,
+    "power_g": 4.9
+  },
+  {
+    "ts": "00:00:42.509",
+    "punch_type_id": 3,
+    "speed_mph": 11.5,
+    "power_g": 9.7
+  },
+  {
+    "ts": "00:00:42.939",
+    "punch_type_id": 1,
+    "speed_mph": 7.5,
+    "power_g": 5.7
+  },
+  {
+    "ts": "00:00:47.609",
+    "punch_type_id": 0,
+    "speed_mph": 4.1,
+    "power_g": 4.5
+  },
+  {
+    "ts": "00:00:47.75",
+    "punch_type_id": 5,
+    "speed_mph": 16.3,
+    "power_g": 12.7
+  },
+  {
+    "ts": "00:00:48.039",
+    "punch_type_id": 1,
+    "speed_mph": 7.4,
+    "power_g": 5.6
+  },
+  {
+    "ts": "00:00:49.84",
+    "punch_type_id": 5,
+    "speed_mph": 21.7,
+    "power_g": 10.8
+  },
+  {
+    "ts": "00:00:57.31",
+    "punch_type_id": 3,
+    "speed_mph": 11.9,
+    "power_g": 10.1
+  },
+  {
+    "ts": "00:00:58.039",
+    "punch_type_id": 5,
+    "speed_mph": 18.6,
+    "power_g": 13.2
+  },
+  {
+    "ts": "00:00:58.35",
+    "punch_type_id": 1,
+    "speed_mph": 23.4,
+    "power_g": 13.1
+  },
+  {
+    "ts": "00:00:59.109",
+    "punch_type_id": 4,
+    "speed_mph": 14.3,
+    "power_g": 8.3
+  },
+  {
+    "ts": "00:01:02.009",
+    "punch_type_id": 0,
+    "speed_mph": 7.3,
+    "power_g": 6
+  },
+  {
+    "ts": "00:01:04.45",
+    "punch_type_id": 0,
+    "speed_mph": 6.6,
+    "power_g": 5.7
+  },
+  {
+    "ts": "00:01:05.819",
+    "punch_type_id": 0,
+    "speed_mph": 5.1,
+    "power_g": 4.6
+  },
+  {
+    "ts": "00:01:07.56",
+    "punch_type_id": 0,
+    "speed_mph": 7.1,
+    "power_g": 5.7
+  },
+  {
+    "ts": "00:01:07.829",
+    "punch_type_id": 3,
+    "speed_mph": 11.4,
+    "power_g": 8.6
+  },
+  {
+    "ts": "00:01:09.269",
+    "punch_type_id": 0,
+    "speed_mph": 7.2,
+    "power_g": 5.9
+  },
+  {
+    "ts": "00:01:09.53",
+    "punch_type_id": 3,
+    "speed_mph": 10.5,
+    "power_g": 8.3
+  },
+  {
+    "ts": "00:01:09.769",
+    "punch_type_id": 0,
+    "speed_mph": 5.6,
+    "power_g": 4.7
+  },
+  {
+    "ts": "00:01:09.859",
+    "punch_type_id": 0,
+    "speed_mph": 5.4,
+    "power_g": 4.8
+  },
+  {
+    "ts": "00:01:11.62",
+    "punch_type_id": 0,
+    "speed_mph": 5.7,
+    "power_g": 5.1
+  },
+  {
+    "ts": "00:01:12.5",
+    "punch_type_id": 0,
+    "speed_mph": 5.2,
+    "power_g": 4.8
+  },
+  {
+    "ts": "00:01:12.879",
+    "punch_type_id": 4,
+    "speed_mph": 12.1,
+    "power_g": 7.6
+  },
+  {
+    "ts": "00:01:19.39",
+    "punch_type_id": 0,
+    "speed_mph": 5.6,
+    "power_g": 5.7
+  },
+  {
+    "ts": "00:01:22.92",
+    "punch_type_id": 0,
+    "speed_mph": 4.9,
+    "power_g": 4.2
+  },
+  {
+    "ts": "00:01:24.609",
+    "punch_type_id": 0,
+    "speed_mph": 6.8,
+    "power_g": 5.9
+  },
+  {
+    "ts": "00:01:25.17",
+    "punch_type_id": 0,
+    "speed_mph": 8.5,
+    "power_g": 6.6
+  },
+  {
+    "ts": "00:01:25.31",
+    "punch_type_id": 5,
+    "speed_mph": 13.4,
+    "power_g": 9.4
+  },
+  {
+    "ts": "00:01:26.769",
+    "punch_type_id": 3,
+    "speed_mph": 5.9,
+    "power_g": 4.6
+  },
+  {
+    "ts": "00:01:26.84",
+    "punch_type_id": 0,
+    "speed_mph": 6,
+    "power_g": 5.4
+  },
+  {
+    "ts": "00:01:33",
+    "punch_type_id": 0,
+    "speed_mph": 5.7,
+    "power_g": 4.9
+  },
+  {
+    "ts": "00:01:33.219",
+    "punch_type_id": 3,
+    "speed_mph": 7.8,
+    "power_g": 6.1
+  },
+  {
+    "ts": "00:01:41.37",
+    "punch_type_id": 0,
+    "speed_mph": 5.9,
+    "power_g": 5
+  },
+  {
+    "ts": "00:01:41.87",
+    "punch_type_id": 3,
+    "speed_mph": 6,
+    "power_g": 5.2
+  },
+  {
+    "ts": "00:01:42.109",
+    "punch_type_id": 0,
+    "speed_mph": 5.6,
+    "power_g": 4.3
+  },
+  {
+    "ts": "00:01:42.319",
+    "punch_type_id": 0,
+    "speed_mph": 6.9,
+    "power_g": 5.7
+  },
+  {
+    "ts": "00:01:43.01",
+    "punch_type_id": 0,
+    "speed_mph": 6.3,
+    "power_g": 5.3
+  },
+  {
+    "ts": "00:01:45.53",
+    "punch_type_id": 3,
+    "speed_mph": 8.5,
+    "power_g": 6.1
+  },
+  {
+    "ts": "00:01:47.849",
+    "punch_type_id": 0,
+    "speed_mph": 7.4,
+    "power_g": 5.8
+  },
+  {
+    "ts": "00:01:48",
+    "punch_type_id": 3,
+    "speed_mph": 12.4,
+    "power_g": 9.5
+  },
+  {
+    "ts": "00:01:48.379",
+    "punch_type_id": 1,
+    "speed_mph": 11.3,
+    "power_g": 6.7
+  },
+  {
+    "ts": "00:01:55.109",
+    "punch_type_id": 0,
+    "speed_mph": 4.7,
+    "power_g": 4.5
+  },
+  {
+    "ts": "00:01:55.62",
+    "punch_type_id": 0,
+    "speed_mph": 5.6,
+    "power_g": 4.9
+  },
+  {
+    "ts": "00:01:56.12",
+    "punch_type_id": 0,
+    "speed_mph": 6.2,
+    "power_g": 5.6
+  },
+  {
+    "ts": "00:01:57.06",
+    "punch_type_id": 0,
+    "speed_mph": 5.4,
+    "power_g": 4.6
+  },
+  {
+    "ts": "00:01:57.459",
+    "punch_type_id": 0,
+    "speed_mph": 6.1,
+    "power_g": 5.7
+  },
+  {
+    "ts": "00:01:57.719",
+    "punch_type_id": 3,
+    "speed_mph": 10.4,
+    "power_g": 8.7
+  },
+  {
+    "ts": "00:01:57.969",
+    "punch_type_id": 0,
+    "speed_mph": 4.3,
+    "power_g": 4
+  },
+  {
+    "ts": "00:02:00.68",
+    "punch_type_id": 0,
+    "speed_mph": 4.6,
+    "power_g": 4.2
+  },
+  {
+    "ts": "00:02:01.68",
+    "punch_type_id": 3,
+    "speed_mph": 12,
+    "power_g": 9.1
+  },
+  {
+    "ts": "00:02:02.019",
+    "punch_type_id": 0,
+    "speed_mph": 7.3,
+    "power_g": 6.7
+  },
+  {
+    "ts": "00:02:02.28",
+    "punch_type_id": 3,
+    "speed_mph": 11.6,
+    "power_g": 8.4
+  },
+  {
+    "ts": "00:02:02.689",
+    "punch_type_id": 1,
+    "speed_mph": 14.1,
+    "power_g": 9.6
+  },
+  {
+    "ts": "00:02:07.079",
+    "punch_type_id": 4,
+    "speed_mph": 15.3,
+    "power_g": 8.4
+  },
+  {
+    "ts": "00:02:08.18",
+    "punch_type_id": 5,
+    "speed_mph": 14.7,
+    "power_g": 9.8
+  }
+]

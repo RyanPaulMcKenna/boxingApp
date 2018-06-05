@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+body {
+    padding: 0;
+    background-color: black;
+    color: white;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.Header{
+    background-color: black;    
+}
+
+.Header h2{
+    color: white ;
+    text-align: center;
+}
+
+.Line h3{
+    color: #cccccc;
+    padding-left: 33%;
+}
+
+.Line{
+    width: 98%;
+    background-color: #222222;
+}
+
+.Punches{
+    background-color: #222222;
+    border-style: solid;
+    border-width: 5px;
+    border-right-width: 2.5px;
+    border-bottom-width: 2.5px;
+    border-color: black;
+    width: 33%;
+    float: left;
+    padding-bottom: 29px;
+}
+.Punches h1, h5{
+    line-height: 0.5;
+    text-align: center;
+}
+
+.Punches h5{
+    color: #cccccc;
+}
+.Speed{
+    background-color: #222222;
+    border-style: solid;
+    border-width: 5px;
+    border-left-width: 2.5px;
+    border-right-width: 2.5px;
+    border-bottom-width: 2.5px;
+    border-color: black;
+    width: 33%;
+    float: left;
+    padding: 0;
+}
+.Speed h5{
+    color: #cccccc;
+}
+.Speed h1, h5{
+    line-height: 0.5;
+    text-align: center;
+} 
+
+
+.Power{
+    background-color: #222222;
+    border-style: solid;
+    border-width: 5px;
+    border-left-width: 2.5px;
+    border-bottom-width: 2.5px;
+    border-color: black;
+    width: 33%;
+    float: left;
+    padding: 0;
+}
+.Power h1, h5{
+    line-height: 0.5;
+    text-align: center;
+} 
+.Power h5{
+    color: #cccccc;
+}
+
+.Breakdown{
+    display: inline-block;
+    height: 145px;
+    width: 99%;
+    background-color: #222222;
+    color: #cccccc;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-top-width: 2.5px;
+    padding-top: 0;
+}
+
+
+
+.LeftHandChart{
+    float: left;
+    margin: 0;
+    padding: 0;
+    /* -webkit-transform: scaleX(-1);
+    transform: scaleX(-1); */
+}
+.RightHandChart{
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+
+.Breakdown h3{
+    text-align: center;
+    line-height: 0;
+}
+Footer{
+    background-color: #222222;
+    width: 100%;
+       
+}
+.Footer h3{
+    text-align: left;
+}
