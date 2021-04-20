@@ -1,10 +1,11 @@
+See the wiki for pictures of the UI. 
+
 This is an app that could be used within a smartphone or a wearable device such as a smart watch.
 The app displays training statistics to Boxers, extendable to other athletes also.
 The app would process data acquired through the sensors of the device it is installed on to.
 The app could be extended to include data science techniques to unearth particulary valuable data.
 The app could be extended to allow the user more freedom in how they would like to view their data.
 
-See the wiki for pictures of the UI. 
 
 Note: 
 If you are installing this on a desktop then after running with 'npm start' 
