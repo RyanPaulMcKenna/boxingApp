@@ -12,7 +12,7 @@ class Intensity extends Component{
             width={100}
             height={50}
             options={{
-                maintainAspectRatio: false      
+                maintainAspectRatio: true      
           }}
          
         />

@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import $ from 'jquery'
 import boxingData from './data/boxing';
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -8,7 +7,7 @@ import Speed from './components/Speed';
 import Power from './components/Power';
 import Intensity from './components/Intensity';
 import Breakdown from './components/Breakdown';
-import { getIndexOfMaxInSet, getIndexOfMinInSet, toBinsToGoalRate, toBins, toTotalseconds, getRightHandData, getLeftHandData, getMaxInSet, getMinInSet} from './timeLibrary';
+import { toBinsToGoalRate, toBins, getRightHandData, getLeftHandData} from './timeLibrary';
 import { Chart, defaults } from 'react-chartjs-2';
 import './App.css';
 
